@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "vshnu_banquetbookingz",
+    "password": "Banquetbookingz@123",
+    "database": "vshnu_bumble",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}

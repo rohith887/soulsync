@@ -1,0 +1,6 @@
+firstName,age,gender,location,bio,verified,isFeatured,isPopular
+francis,27,Female,"San Francisco, USA",Yoga instructor and wellness advocate,TRUE,FALSE,TRUE
+lion james,31,Male,"Austin, USA",Tech entrepreneur and coffee lover,TRUE,TRUE,FALSE
+olse morris,24,Female,"Paris, France",Art history graduate exploring museums,FALSE,TRUE,TRUE
+nehemiah,29,Male,"Sydney, Australia",Surfing enthusiast and marine biologist,TRUE,FALSE,FALSE
+eva,26,Female,"Berlin, Germany",Electronic music DJ and producer,FALSE,TRUE,FALSE

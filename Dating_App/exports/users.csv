@@ -1,0 +1,10 @@
+"id","name","email","status","verified","createdAt","lastActive"
+1,"Rohith","1@one.com","suspended",,"2025-04-07T17:22:27.000Z",
+2,"Rohith","2@two.com","active",,"2025-04-07T17:23:27.000Z",
+3,"Vishnu R","3@three.com","active",,"2025-04-08T05:13:07.000Z","2025-04-08T05:16:34.000Z"
+4,"Alice",,"active",,"2025-04-08T06:20:21.000Z",
+5,"Sophia",,"active",,"2025-04-08T06:21:20.000Z",
+6,"Liam",,"active",,"2025-04-08T06:21:20.000Z",
+7,"Olivia",,"active",,"2025-04-08T06:21:20.000Z",
+8,"Noah",,"",,"2025-04-08T06:21:20.000Z",
+9,"Ava",,"",,"2025-04-08T06:21:20.000Z",
